@@ -2,6 +2,7 @@
 
 
 import numpy as np
+import scipy
 times=100000
 
 x=np.random.choice(3,times)
