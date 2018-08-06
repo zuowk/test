@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Apr  8 20:11:45 2018
 
-@author: zwk
-"""
 
 import numpy as np
 times=100000
